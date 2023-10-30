@@ -12,7 +12,7 @@ Welcome to the MedBay GitHub organization! Our mission is to develop a Health Re
 
 ## 🌐 Notion Dashboard
 
-For a detailed view of our project's progress, including meeting records and task assignments, visit our [Notion Dashboard](https://www.notion.so/medbay).
+For a detailed view of our project's progress, including meeting records and task assignments, visit our [Notion Dashboard](https://kvrancic.notion.site/MedBay-a2de6bf836174d608d61dedd4ea7c6af?pvs=4).
 
 ---
 
