@@ -1,5 +1,9 @@
 # MedBay: Health Rehabilitation & Physical Therapy System
 
+# 🚀 **[CURRENT DEPLOY AVAILABLE HERE](https://medbay.life/)**
+
+## More info about the project is available on our [Notion Dashboard](https://kvrancic.notion.site/MedBay-a2de6bf836174d608d61dedd4ea7c6af?pvs=4) 
+
 *Course*: **Software Engineering** | *University Project*
 
 ---
